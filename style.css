@@ -1,0 +1,65 @@
+img{
+    width: 1280px;
+    height: 100px;
+}
+p{
+    font-size: 24px;
+    color: blue;
+    text-align: center;
+}
+.h2{
+    font-style: italic;
+}
+table{
+    margin-left: 500px;
+    text-align: center;
+    border: 2px solid teal;
+    
+}
+td,th,tr{
+    border: 2px dashed deeppink;
+}
+.plink{
+    color: black;
+    text-align: left;
+}
+.up{
+    text-align:right;
+    color: coral;
+    margin: 350px;
+}
+ul{
+    list-style: circle;
+}
+ol{
+    list-style-type: lower-latin;
+}
+.thro{
+    font-style: unset;
+}
+.divp{
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+
+    float: left;
+    border: dotted;
+    margin-left: 1cm;
+}
+.divh{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(39, 27, 148);
+    float: left;
+    border: dotted;
+    margin-left: 1cm;
+}
+.tabale1{
+    float: left;
+    margin-left: 1cm;
+    background-color: wheat;
+    border-collapse: collapse;
+}
+.trr,.tddm.thh{
+    border-collapse: collapse;
+}
